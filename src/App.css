@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+.oo{
+  position: relative;
+  z-index: -2;
+  background-image: url("https://thumbs.dreamstime.com/z/imagine-create-inspire-concept-sticky-notes-handwriting-black-ink-isolated-note-96877013.jpg?ct=jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Adjust as needed */
+}
+
+.oo{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity (last value) as needed */
+}
+
+
+
